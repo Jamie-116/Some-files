@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect x="0" y="0" width="1280" height="4" fill="#0082FF"/>
+  <text x="62" y="48" xml:space="preserve" font-family="'Microsoft YaHei', 'PingFang SC', Roboto, Arial, sans-serif" font-size="26" font-weight="bold" fill="#2E2E32">【建设逻辑】资源底座 → 平台赋能 → 场景驱动 → 生态闭环，四层层层递进</text>
+  <rect x="62" y="62" width="48" height="3" rx="1.5" fill="#8254F0"/>
+
+  <!-- Top: Layer 4 — 生态闭环 (outcome) -->
+  <rect x="62" y="100" width="820" height="100" rx="10" fill="#F0FFFC" stroke="#A8F0E6" stroke-width="1"/>
+  <rect x="62" y="100" width="6" height="100" rx="3" fill="#28E6E6"/>
+  <rect x="90" y="120" width="44" height="44" rx="10" fill="#F0FFFC"/>
+  <text x="112" y="149" text-anchor="middle" xml:space="preserve" font-family="Georgia, 'Microsoft YaHei', serif" font-size="20" font-weight="bold" fill="#0082FF">04</text>
+  <text x="150" y="138" xml:space="preserve" font-family="'Microsoft YaHei', 'PingFang SC', Roboto, Arial, sans-serif" font-size="18" font-weight="bold" fill="#0082FF">生态闭环</text>
+  <text x="150" y="164" xml:space="preserve" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="14" fill="#595757">平台支撑 + 教师主导 + 学生主体 + 企业参与 — 持续运营机制</text>
+  <text x="150" y="188" xml:space="preserve" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="12" font-weight="bold" fill="#0082FF">【数智成效】从专业建设到学院转型，从局部优化到示范引领</text>
+
+  <!-- Layer 3 — 场景驱动 -->
+  <rect x="62" y="220" width="820" height="100" rx="10" fill="#F5F0FF" stroke="#D4C8F0" stroke-width="1"/>
+  <rect x="62" y="220" width="6" height="100" rx="3" fill="#8254F0"/>
+  <rect x="90" y="240" width="44" height="44" rx="10" fill="#F5F0FF"/>
+  <text x="112" y="269" text-anchor="middle" xml:space="preserve" font-family="Georgia, 'Microsoft YaHei', serif" font-size="20" font-weight="bold" fill="#8254F0">03</text>
+  <text x="150" y="258" xml:space="preserve" font-family="'Microsoft YaHei', 'PingFang SC', Roboto, Arial, sans-serif" font-size="18" font-weight="bold" fill="#8254F0">场景驱动</text>
+  <text x="150" y="284" xml:space="preserve" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="14" fill="#595757">6大智能体样板 — "单项技能 → 综合场景 → 真实项目"三层递进</text>
+  <text x="150" y="308" xml:space="preserve" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="12" font-weight="bold" fill="#8254F0">【核心价值】"静态案例教学" → "场景化、交互式、可评价的AI实训"</text>
+
+  <!-- Layer 2 — 平台赋能 -->
+  <rect x="62" y="340" width="820" height="100" rx="10" fill="#F0F7FF" stroke="#C8E0FF" stroke-width="1"/>
+  <rect x="62" y="340" width="6" height="100" rx="3" fill="#0082FF"/>
+  <rect x="90" y="360" width="44" height="44" rx="10" fill="#EFF6FF"/>
+  <text x="112" y="389" text-anchor="middle" xml:space="preserve" font-family="Georgia, 'Microsoft YaHei', serif" font-size="20" font-weight="bold" fill="#0082FF">02</text>
+  <text x="150" y="378" xml:space="preserve" font-family="'Microsoft YaHei', 'PingFang SC', Roboto, Arial, sans-serif" font-size="18" font-weight="bold" fill="#0082FF">平台赋能</text>
+  <text x="150" y="404" xml:space="preserve" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="14" fill="#595757">模板化 · 配置化 · 零代码 — 教师无需编码即可创造AI实训场景</text>
+  <text x="150" y="428" xml:space="preserve" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="12" font-weight="bold" fill="#0082FF">【关键突破】降低技术门槛，"平台支撑 + 教师主导 + 学生主体"机制可落地</text>
+
+  <!-- Bottom: Layer 1 — 资源底座 (foundation) -->
+  <rect x="62" y="460" width="820" height="100" rx="10" fill="#F5F8FC" stroke="#E0E6EE" stroke-width="1"/>
+  <rect x="62" y="460" width="6" height="100" rx="3" fill="#595757"/>
+  <rect x="90" y="480" width="44" height="44" rx="10" fill="#E0E6EE"/>
+  <text x="112" y="509" text-anchor="middle" xml:space="preserve" font-family="Georgia, 'Microsoft YaHei', serif" font-size="20" font-weight="bold" fill="#595757">01</text>
+  <text x="150" y="498" xml:space="preserve" font-family="'Microsoft YaHei', 'PingFang SC', Roboto, Arial, sans-serif" font-size="18" font-weight="bold" fill="#2E2E32">资源底座</text>
+  <text x="150" y="524" xml:space="preserve" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="14" fill="#595757">5大核心资源库 — 将分散资料转化为可检索、可交互、可复用的知识资产</text>
+  <text x="150" y="548" xml:space="preserve" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="12" font-weight="bold" fill="#595757">【根本前提】AI输出的质量取决于输入知识的质量</text>
+
+  <!-- RIGHT: Upward progression (matches reversed order) -->
+  <rect x="920" y="100" width="298" height="460" rx="12" fill="#F5F8FC"/>
+  <text x="1069" y="135" text-anchor="middle" xml:space="preserve" font-family="'Microsoft YaHei', 'PingFang SC', Roboto, Arial, sans-serif" font-size="16" font-weight="bold" fill="#0082FF">建设路径</text>
+  <line x1="950" y1="150" x2="1188" y2="150" stroke="#E0E6EE" stroke-width="1"/>
+
+  <!-- Top = outcome -->
+  <rect x="950" y="175" width="220" height="52" rx="8" fill="#FFFFFF" stroke="#E0E6EE" stroke-width="1"/>
+  <text x="970" y="198" xml:space="preserve" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="12" fill="#595757">教师共建 + 学生实训</text>
+  <text x="970" y="218" xml:space="preserve" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="12" fill="#595757">企业参与 + 数据反哺 → 运营</text>
+
+  <path d="M 1060,232 L 1050,242 M 1060,232 L 1070,242" stroke="#28E6E6" stroke-width="1.5" fill="none"/>
+
+  <rect x="950" y="250" width="220" height="52" rx="8" fill="#FFFFFF" stroke="#E0E6EE" stroke-width="1"/>
+  <text x="970" y="273" xml:space="preserve" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="12" fill="#595757">6大智能体 → 对话交互</text>
+  <text x="970" y="293" xml:space="preserve" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="12" fill="#595757">数据分析 → 风险判断 → 报告</text>
+
+  <path d="M 1060,307 L 1050,317 M 1060,307 L 1070,317" stroke="#8254F0" stroke-width="1.5" fill="none"/>
+
+  <rect x="950" y="325" width="220" height="52" rx="8" fill="#FFFFFF" stroke="#E0E6EE" stroke-width="1"/>
+  <text x="970" y="348" xml:space="preserve" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="12" fill="#595757">知识导入 → 数据上传 → 提示词</text>
+  <text x="970" y="368" xml:space="preserve" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="12" fill="#595757">配置 → 发布 — 零代码</text>
+
+  <path d="M 1060,382 L 1050,392 M 1060,382 L 1070,392" stroke="#0082FF" stroke-width="1.5" fill="none"/>
+
+  <rect x="950" y="400" width="220" height="52" rx="8" fill="#FFFFFF" stroke="#E0E6EE" stroke-width="1"/>
+  <text x="970" y="423" xml:space="preserve" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="12" fill="#595757">知识库 + 案例库 + 票据库</text>
+  <text x="970" y="443" xml:space="preserve" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="12" fill="#595757">报表库 + 项目库 → 体系化</text>
+
+  <!-- Top label -->
+  <text x="1060" y="475" text-anchor="middle" xml:space="preserve" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="11" fill="#28E6E6" font-weight="bold">▲ 成果输出</text>
+  <!-- Bottom label -->
+  <text x="1060" y="550" text-anchor="middle" xml:space="preserve" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="11" fill="#595757" font-weight="bold">▼ 基础构建</text>
+
+  <!-- Bottom -->
+  <rect x="62" y="590" width="1156" height="80" rx="8" fill="#0082FF"/>
+  <text x="640" y="622" text-anchor="middle" xml:space="preserve" font-family="'Microsoft YaHei', 'PingFang SC', Roboto, Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF">以资源知识库为根，以智能体实训平台为干，以场景化交互训练为果</text>
+  <text x="640" y="652" text-anchor="middle" xml:space="preserve" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="14" fill="#C8D6E5">四大逻辑层层递进，每一层都是上一层的必要条件，共同构成完整建设路径</text>
+
+  <svg x="1052" y="12" width="203" height="38" viewBox="0 0 0.68612 1.00419" preserveAspectRatio="none">
+    <image href="../templates/image6.png" x="0" y="0" width="1" height="1" preserveAspectRatio="none"/>
+  </svg>
+</svg>
