@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <!-- Full-bleed background -->
+  <image href="image9.jpeg" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+  <!-- Thank you title -->
+  <text x="640" y="280" text-anchor="middle" xml:space="preserve" font-family="'FZLanTingHeiS-M-GB', 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="52" font-weight="bold" fill="#000000">{{ENDING_TITLE}}</text>
+  <!-- English subtitle -->
+  <text x="640" y="360" text-anchor="middle" xml:space="preserve" font-family="Roboto, Arial, sans-serif" font-size="28" fill="#595757">{{ENDING_SUBTITLE}}</text>
+  <!-- Logo -->
+  <svg x="997" y="41" width="258" height="56" viewBox="0 0 0.67205 1.12172" preserveAspectRatio="none">
+    <image href="image3.png" x="0" y="0" width="1" height="1" preserveAspectRatio="none"/>
+  </svg>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <!-- Left sidebar -->
+  <svg x="0" y="0" width="424" height="720" viewBox="0 0 0.33125 1" preserveAspectRatio="none">
+    <image href="image5.png" x="0" y="0" width="1" height="1" preserveAspectRatio="none"/>
+  </svg>
+  <!-- Chapter number -->
+  <text x="70" y="310" xml:space="preserve" font-family="'FZLanTingHeiS-M-GB', 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="80" font-weight="bold" fill="#FFFFFF">{{CHAPTER_NUMBER}}</text>
+  <!-- Divider line -->
+  <line x1="-2" y1="411" x2="345" y2="411" stroke="#FFFFFF" stroke-width="4"/>
+  <!-- Chapter label -->
+  <text x="83" y="460" xml:space="preserve" font-family="'FZLanTingHeiS-M-GB', 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="18" fill="#FFFFFF">{{CHAPTER_LABEL}}</text>
+  <!-- Chapter title on right -->
+  <text x="461" y="330" xml:space="preserve" font-family="'FZLanTingHeiS-M-GB', 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="36" font-weight="bold" fill="#2E2E32">{{CHAPTER_TITLE}}</text>
+  <!-- Chapter subtitle on right -->
+  <text x="461" y="395" xml:space="preserve" font-family="'FZLanTingHeiS-M-GB', 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="20" fill="#595757">{{CHAPTER_SUBTITLE}}</text>
+  <!-- Logo -->
+  <svg x="1052" y="31" width="203" height="38" viewBox="0 0 0.68612 1.00419" preserveAspectRatio="none">
+    <image href="image6.png" x="0" y="0" width="1" height="1" preserveAspectRatio="none"/>
+  </svg>
+</svg>

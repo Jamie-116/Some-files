@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <!-- Full-bleed background -->
+  <image href="image4.jpeg" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+  <!-- Purple divider line -->
+  <line x1="52" y1="305" x2="691" y2="305" stroke="#C94CEB" stroke-width="9" stroke-linecap="round"/>
+  <!-- Title -->
+  <text x="62" y="270" xml:space="preserve" font-family="'FZLanTingHeiS-M-GB', 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="40" font-weight="bold" fill="#000000">{{TITLE}}</text>
+  <!-- Subtitle -->
+  <text x="62" y="375" xml:space="preserve" font-family="'FZLanTingHeiS-M-GB', 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="24" fill="#595757">{{SUBTITLE}}</text>
+  <!-- Date with cyan border -->
+  <rect x="63" y="453" width="180" height="50" rx="25" ry="25" fill="none" stroke="#28E6E6" stroke-width="2"/>
+  <text x="153" y="483" text-anchor="middle" xml:space="preserve" font-family="'FZLanTingHeiS-M-GB', 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="16" fill="#595757">{{DATE}}</text>
+  <!-- Logo -->
+  <svg x="997" y="41" width="258" height="56" viewBox="0 0 0.67205 1.12172" preserveAspectRatio="none">
+    <image href="image3.png" x="0" y="0" width="1" height="1" preserveAspectRatio="none"/>
+  </svg>
+</svg>

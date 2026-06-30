@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <!-- Left sidebar -->
+  <svg x="0" y="0" width="424" height="720" viewBox="0 0 0.33125 1" preserveAspectRatio="none">
+    <image href="image5.png" x="0" y="0" width="1" height="1" preserveAspectRatio="none"/>
+  </svg>
+  <!-- TOC title on sidebar -->
+  <text x="66" y="330" xml:space="preserve" font-family="'FZLanTingHeiS-M-GB', 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="40" font-weight="bold" fill="#FFFFFF">{{TOC_TITLE}}</text>
+  <!-- Divider line -->
+  <line x1="0" y1="377" x2="347" y2="377" stroke="#FFFFFF" stroke-width="4"/>
+  <!-- TOC subtitle on sidebar -->
+  <text x="69" y="430" xml:space="preserve" font-family="'FZLanTingHeiS-M-GB', 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="20" fill="#FFFFFF">{{TOC_SUBTITLE}}</text>
+  <!-- Chapter list on right -->
+  <text x="628" y="210" xml:space="preserve" font-family="'FZLanTingHeiS-R-GB', 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="22" fill="#2E2E32">
+    <tspan x="628" dy="0">{{CHAPTER_01_NUM}}    {{CHAPTER_01_TITLE}}</tspan>
+    <tspan x="628" dy="32">{{CHAPTER_02_NUM}}    {{CHAPTER_02_TITLE}}</tspan>
+    <tspan x="628" dy="32">{{CHAPTER_03_NUM}}    {{CHAPTER_03_TITLE}}</tspan>
+    <tspan x="628" dy="32">{{CHAPTER_04_NUM}}    {{CHAPTER_04_TITLE}}</tspan>
+    <tspan x="628" dy="32">{{CHAPTER_05_NUM}}    {{CHAPTER_05_TITLE}}</tspan>
+    <tspan x="628" dy="32">{{CHAPTER_06_NUM}}    {{CHAPTER_06_TITLE}}</tspan>
+  </text>
+  <!-- Logo -->
+  <svg x="1052" y="31" width="203" height="38" viewBox="0 0 0.68612 1.00419" preserveAspectRatio="none">
+    <image href="image6.png" x="0" y="0" width="1" height="1" preserveAspectRatio="none"/>
+  </svg>
+</svg>
